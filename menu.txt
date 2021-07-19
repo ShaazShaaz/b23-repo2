@@ -13,3 +13,5 @@ burger 5.99 10000cal
 veggie bowl 10cal
 burrito 
 doner 400cal 8.99
+momo
+pasta
